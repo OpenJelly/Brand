@@ -14,7 +14,7 @@ The Adobe Illustrator file provided will become the primary document for these b
 The typefaces in this document are open-source fonts, ensuring accessibility across all operating systems.
 
 **Images:**
-All images have been created specifically for this project, or derived from source material with Creative Commons Attribution-ShareAlike License.
+All images have been created specifically for this project, or derived from source material subject to a Creative Commons Attribution-ShareAlike License.
 
 **Usage:**
 This document and assets are a foundation for other designers to create great work. If you use it, share your projects by posting a link in the comments of this README file.
