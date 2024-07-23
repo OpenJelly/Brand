@@ -1,5 +1,8 @@
-# Brand
+# OpenJelly Brand
 OpenJelly brand design assets
+
+![OpenJelly Logo](https://github.com/OpenJelly/Brand/blob/main/Logo/oj-logo-333-256.png?raw=true)
+
 
 **Acknowledgment:**
 This project was made possible through the help of Gitcoin GG20. Thank you, Web3 community
