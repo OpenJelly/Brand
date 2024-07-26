@@ -13,7 +13,9 @@ Join us in supporting the OpenJelly initiative, brought to you by the dedicated 
 ---
 
 ### Introduction:
-This document serves as the primary brand guidelines for OpenJelly.
+This document serves as the primary brand guidelines for OpenJelly. 
+
+Discover the story behind the OpenJelly redesign and its evolution from our Art Director and design expert, [Grant Kindrick](https://github.com/gkindrick): [Read More](https://www.jellycuts.com/2024/07/openjellys-brand-is-born/)
 
 ### Document Format:
 The Adobe Illustrator file provided will become the primary document for these brand guidelines. A PDF has also included for easy reference and online viewing.
