@@ -21,11 +21,22 @@ The Developer Badge is a symbol of support for the use of JellyCuts, proudly dis
 
 ![Dark Badge](https://github.com/OpenJelly/Brand/blob/main/Miscellaneous/oj-made-with-dark.svg?raw=true)
 
-### Fonts:
+### Typeface:
 The typefaces in this document are open-source fonts, ensuring accessibility across all operating systems.
+
+![Light](https://github.com/OpenJelly/Brand/blob/main/Logotype/oj-logotype-fff.svg)
+
+![White Horizontal](https://raw.githubusercontent.com/OpenJelly/Brand/main/Logotype/oj-logotype-horizontal-fff.svg)
+
+![Dark](https://raw.githubusercontent.com/OpenJelly/Brand/main/Logotype/oj-logotype-333.svg)
+
+![Dark Horizontal](https://raw.githubusercontent.com/OpenJelly/Brand/main/Logotype/oj-logotype-horizontal-333.svg)
 
 ### Images:
 All images have been created specifically for this project, or derived from source material subject to a Creative Commons Attribution-ShareAlike License.
+
+
+
 
 ### Usage:
 This document and assets are a foundation for other designers to create great work. If you use it, share your projects by posting a link in the comments of this [README file](https://github.com/OpenJelly/Brand/edit/main/README.md).
