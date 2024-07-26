@@ -20,7 +20,7 @@ This document outlines the primary brand guidelines for OpenJelly.
 
 Explore the journey of the OpenJelly redesign and its development from our Art Director and design expert, [Grant Kindrick](https://github.com/gkindrick).
 
-›› [Read More](https://www.jellycuts.com/2024/07/openjellys-brand-is-born/)
+›› [Read More](https://www.jellycuts.com/2024/07/openjellys-brand-is-born/?ref=https://github.com/OpenJelly/Brand)
 
 ### Document Format
 
