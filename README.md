@@ -3,9 +3,14 @@ OpenJelly brand design assets
 
 ![OpenJelly Logo](https://raw.githubusercontent.com/OpenJelly/Brand/main/Logo/oj-logo-333.svg)
 
-
 ### Acknowledgment:
 This project was made possible through the help of the Gitcoin community and [#GG20 campaign](https://explorer.gitcoin.co/#/round/42161/27/51). Thank you, Web3 community!
+
+### Support OpenJelly
+
+Join us in supporting the OpenJelly initiative, brought to you by the dedicated team behind Jellycuts.com. Show your support by becoming a subscriber today: [Subscribe Now](https://openjelly.link/support-basic)
+
+---
 
 ### Introduction:
 This document serves as the primary brand guidelines for OpenJelly.
